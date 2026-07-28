@@ -9,7 +9,7 @@ google-auth==2.13.0
 google-auth-httplib2==0.1.0
 google-auth-oauthlib==0.6.0
 googleapis-common-protos==1.56.4
-httplib2==0.20.4
+httplib2==0.32.0
 icalendar==5.0.1
 icalevents==0.1.25
 idna==3.4
